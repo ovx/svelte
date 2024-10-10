@@ -1,5 +1,15 @@
 # svelte
 
+## 5.0.0-next.265
+
+### Patch Changes
+
+- fix: ensure source and filename are known to compileModule's source map ([#13546](https://github.com/sveltejs/svelte/pull/13546))
+
+- fix: do no rerun the each block when array change from empty to empty ([#13553](https://github.com/sveltejs/svelte/pull/13553))
+
+- fix: use `analysis.name` when migrating `<svelte:self>` ([#13544](https://github.com/sveltejs/svelte/pull/13544))
+
 ## 5.0.0-next.264
 
 ### Patch Changes
