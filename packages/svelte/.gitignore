@@ -1,12 +1,12 @@
-*.map
-/src/compiler/compile/internal_exports.js
-/compiler.cjs
+#*.map
+#/src/compiler/compile/internal_exports.js
+#/compiler.cjs
 /scratch/
 /test/*/samples/_
 /test/runtime/shards
 _actual*.*
 _output
-/types/compiler
+#/types/compiler
 
 /action.d.ts
 /animate.d.ts
